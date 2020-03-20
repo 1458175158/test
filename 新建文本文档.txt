@@ -1,0 +1,16 @@
+https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx85bcc8a7f4cee7ff
+&redirect_uri=http://marlbor.natapp1.cc/weixin/auth&response_type=code&scope=snsapi_base&state=STATE#wechat_redirect
+
+
+https://api.weixin.qq.com/snc/oauth2/access_token?appid=wx85bcc8a7f4cee7ff&secret=bc0b48095dcf59590ea9c28667ba89a5&code=CODE&grant_type=authorization_code
+
+
+http://img2.imgtn.bdimg.com/it/u=1460509702,215895766&fm=26&gp=0.jpg
+http://img3.redocn.com/tupian/20141103/yutouniumeishi_3385897.jpg
+http://img3.redocn.com/tupian/20141120/maoxuewangmeishi_3465297.jpg
+https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=3594569140,2959772126&fm=26&gp=0.jpg
+
+
+https://open.weixin.qq.com/connect/qrconnect?appid=wx6ad144e54af67d87&redirect_uri=http%3A%2F%2Fsell.springboot.cn%2Fsell%2Fqr%2FoTgZpweNnfivA9ER9EIXoHAjlrWQ&response_type=code&scope=snsapi_login&state=http%3a%2f%2fmarlbor.natapp1.cc%2fsell%2fwechat%2fqrUserInfo
+
+http://marlbor.natapp1.cc/sell/wechat/qrAuthorize?returnUrl=http://marlbor.natapp1.cc/sell/seller/login
